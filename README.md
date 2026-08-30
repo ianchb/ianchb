@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 
 ## 🏆 Highlight Achievement
 
-- **🥇 ASC 26 First Prize (Rank 10)**  
+- **🥇 ASC 26 | First Prize (Rank 10)**  
 > *Responsible for GPU porting and optimization of AMSS-NCKU numerical relativity calculation*  
+- **🥇 Hunan College Students Electronics Design Contest, 2026 | First Prize**
+> *Served as team leader and led the software development for Problem F.*
 
 ---
 
