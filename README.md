@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - **🥇 ASC 26 | First Prize (Rank 10)**  
 > *Responsible for GPU porting and optimization of AMSS-NCKU numerical relativity calculation*  
 - **🥇 Hunan College Students Electronics Design Contest, 2026 | First Prize**
-> *Served as team leader and led the software development for Problem F.*
+> *Served as team leader and led the software development for Problem F*
 
 ---
 
@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <i>“Efficiency is intelligence, and intelligence is fun!”</i><br/>
+  <i>“Keep trying~”</i><br/>
 </p>
